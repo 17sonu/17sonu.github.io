@@ -1,0 +1,32 @@
+body { font-family: "MV Boli", sans-serif ; background-image: url("pawel-czerwinski-OG44d93iNJk-unsplash.jpg"); color: black; }
+
+
+h1 { text-align: center; font-family: "Broadway", sans-serif; font-size: 50px; text-shadow: orange 0px 2px 7px; }
+
+
+fieldset { background-color: rgba(0, 0, 0, 0); border: 5px solid black; padding: 15px; margin: 15px; border-radius: 20px 20px; box-shadow: blue 0px 0px 10px; }
+
+
+fieldset legend { font-family: "Algerian", sans-serif; padding: 15px; font-size: 30px; border: 2px solid black; border-radius: 20px 20px; box-shadow: blue 0px 0px 5px;}
+
+
+table { width: 100%; }
+
+
+table td { font-size: 20px; padding: 5px; }
+
+
+table th { text-align: left; }input[type="text"], input[type="date"], input[type="number"], input[type="month"], select {font-size: 18px; height: 40px; outline: none; border: 1px solid black; border-radius: 3px 10px; }
+
+
+textarea {outline: none; border: 1px solid black; border-radius: 3px 10px; width: 300px; }
+
+input[type="text"]:focus, input[type="date"]:focus, input[type="number"]:focus, input[type="month"]:focus, select:focus,
+textarea:focus { background-color: rgba(0, 0, 0,0.1); box-shadow: blue 0px 0px 3px }
+
+
+textarea:hover { box-shadow:white  0px 0px 30px;}
+
+.button { background-color: rgba(0,0,0,0.1); font-family: "Blackadder ITC", sans-serif; padding: 15px; font-size: 30px; border: 2px solid black; border-radius:10px 20px; box-shadow: blue 0px 0px 10px; width: 170px; }
+
+.button:hover { box-shadow:white  0px 0px 30px;}
